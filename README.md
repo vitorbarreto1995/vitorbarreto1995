@@ -1,7 +1,11 @@
-### Olá, eu sou o Vitor Barreto. 👋
+### Olá, meu nome é Vitor Barreto. 
 
-- 🔭  Hoje trabalho com front-end.
-- 🌱 Estou estudando HTML5, CSS3 e JavaScript.
+-  Atualmente desenvolvendo projetos front end. 
+  - Tecnologias utilizadas nos projetos (HTML, CSS, JS).
+
+- Curso Ciências da Computação:
+  - Alguns temas estudas até o momento no meu curso (linguagem C, Algorimos, design e lógica, Paradigmas, Sistemas Operacionais, Álgebra específicamente funções).
+  - Bibliografias lidas durante o curso (Lógica e Designi de Programação - Joy Farrell, Int. á Ciências da Comp. - Fedeli, Int. á Construção de Algoritmos - Terada/Setzer etc..)
 
 
 <div align="center">
