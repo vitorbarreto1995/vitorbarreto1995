@@ -4,8 +4,8 @@
   - Tecnologias utilizadas nos projetos (HTML, CSS, JS).
 
 - Curso Ciências da Computação:
-  - Alguns temas estudas até o momento no meu curso (linguagem C, Algorimos, design e lógica, Paradigmas, Sistemas Operacionais, Álgebra específicamente funções).
-  - Bibliografias lidas durante o curso (Lógica e Designi de Programação - Joy Farrell, Int. á Ciências da Comp. - Fedeli, Int. á Construção de Algoritmos - Terada/Setzer etc..)
+  - Alguns temas estudados até o momento no meu curso (linguagem C, Algoritmos, design e lógica, Paradigmas, Sistemas Operacionais, Álgebra específicamente funções).
+  - Bibliografias lidas durante o curso (Lógica e Design de Programação - Joy Farrell, Int. á Ciências da Comp. - Fedeli, Int. á Construção de Algoritmos - Terada/Setzer etc..)
 
 
 <div align="center">
