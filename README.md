@@ -1,7 +1,7 @@
 ### Olá, eu sou o Vitor Barreto.  👌
 
 -  Atualmente desenvolvendo projetos fullstack. 
-  - Tecnologias utilizadas nos projetos (HTML, CSS, JS).
+  - Tecnologias utilizadas nos projetos (HTML, CSS, JS, Node.js, Docker e Mysql).
 
 - Curso Ciências da Computação:
   - Alguns temas estudados até o momento no meu curso (linguagem C, Algoritmos, design e lógica, Paradigmas, Sistemas Operacionais, Álgebra específicamente funções).
