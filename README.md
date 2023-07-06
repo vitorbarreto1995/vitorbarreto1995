@@ -4,7 +4,7 @@
   - Tecnologias utilizadas nos projetos (HTML, CSS, JS, Node.js, Docker e Mysql).
 
 - Curso Ciências da Computação:
-  - Alguns temas estudados até o momento no meu curso (linguagem C, Algoritmos, design e lógica, Paradigmas, Sistemas Operacionais, Álgebra específicamente funções).
+  - Alguns temas estudados até o momento no meu curso (linguagem C, Algoritmos, design de programação, lógica de programção, Paradigmas, Sistemas Operacionais, Álgebra específicamente funções, etc..).
   - Bibliografias lidas durante o curso (Lógica e Design de Programação - Joy Farrell, Int. á Ciências da Comp. - Fedeli, Int. á Construção de Algoritmos - Terada/Setzer etc..)
 
 
