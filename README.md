@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vitor Barreto.  👌
 
--  Atualmente desenvolvendo projetos front end. 
+-  Atualmente desenvolvendo projetos fullstack. 
   - Tecnologias utilizadas nos projetos (HTML, CSS, JS).
 
 - Curso Ciências da Computação:
